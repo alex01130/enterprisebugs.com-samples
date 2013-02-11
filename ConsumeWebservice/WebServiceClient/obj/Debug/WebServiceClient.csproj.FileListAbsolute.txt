@@ -1,0 +1,9 @@
+C:\projects\git\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\bin\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.exe.config
+C:\projects\git\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\bin\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.exe
+C:\projects\git\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\bin\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.pdb
+C:\projects\git\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\obj\Debug\WebServiceClient.csprojResolveAssemblyReference.cache
+C:\projects\git\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\obj\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.exe
+C:\projects\git\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\obj\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.pdb
+C:\projects\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\bin\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.exe.config
+C:\projects\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\obj\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.exe
+C:\projects\enterprisebugs.com-samples\ConsumeWebservice\WebServiceClient\obj\Debug\EnterpriseBugs.WebServiceDemo.WebServiceClient.pdb
