@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Rows>
+  <Row>
+    <Country></Country>
+    <Image>unknown.gif</Image>
+  </Row>
+  <Row>
+    <Country>germany</Country>
+    <Image>germany.gif</Image>
+  </Row>
+  <Row>
+    <Country>usa</Country>
+    <Image>usa.gif</Image>
+  </Row>
+  <Row>
+    <Country>some country</Country>
+    <Image>unknown.gif</Image>
+  </Row>
+</Rows>
+
+
