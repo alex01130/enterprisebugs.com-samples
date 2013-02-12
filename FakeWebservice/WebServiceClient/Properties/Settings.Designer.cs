@@ -27,10 +27,9 @@ namespace EnterpriseBugs.FakeWebservice.WebServiceClient.Properties {
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
         [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.WebServiceUrl)]
         [global::System.Configuration.DefaultSettingValueAttribute("http://localhost:59826/CountryInformationService.asmx")]
-        public string EnterpriseBugs_FakeWebservice_WebServiceClient_localhost_CountryInformationService {
+        public string CountryInformationService {
             get {
-                return ((string)(this["EnterpriseBugs_FakeWebservice_WebServiceClient_localhost_CountryInformationServic" +
-                    "e"]));
+                return ((string)(this["CountryInformationService"]));
             }
         }
     }

@@ -2,7 +2,7 @@
 <SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="EnterpriseBugs.FakeWebservice.WebServiceClient.Properties" GeneratedClassName="Settings">
   <Profiles />
   <Settings>
-    <Setting Name="EnterpriseBugs_FakeWebservice_WebServiceClient_localhost_CountryInformationService" Type="(Web Service URL)" Scope="Application">
+    <Setting Name="CountryInformationService" Type="(Web Service URL)" Scope="Application">
       <Value Profile="(Default)">http://localhost:59826/CountryInformationService.asmx</Value>
     </Setting>
   </Settings>

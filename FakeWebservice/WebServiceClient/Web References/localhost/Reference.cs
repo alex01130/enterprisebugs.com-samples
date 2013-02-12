@@ -66,7 +66,7 @@ namespace EnterpriseBugs.FakeWebservice.WebServiceClient.localhost {
         
         /// <remarks/>
         public CountryInformationService() {
-            this.Url = global::EnterpriseBugs.FakeWebservice.WebServiceClient.Properties.Settings.Default.EnterpriseBugs_FakeWebservice_WebServiceClient_localhost_CountryInformationService;
+            this.Url = global::EnterpriseBugs.FakeWebservice.WebServiceClient.Properties.Settings.Default.CountryInformationService;
             if ((this.IsLocalFileSystemWebService(this.Url) == true)) {
                 this.UseDefaultCredentials = true;
                 this.useDefaultCredentialsSetExplicitly = false;
