@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{7A99A8AD-1C32-4D8C-B103-9B28FC8063A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic.Test", "BusinessLogic.Test\BusinessLogic.Test.csproj", "{1D897D04-A5AE-4B67-B871-60CDADDC3EEC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{5D9470E3-6BC9-4B6E-8D57-1B1286AE18D2}"
+	ProjectSection(SolutionItems) = preProject
+		EnterpriseBugs.ControllingWithTypemock.testsettings = EnterpriseBugs.ControllingWithTypemock.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A99A8AD-1C32-4D8C-B103-9B28FC8063A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A99A8AD-1C32-4D8C-B103-9B28FC8063A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A99A8AD-1C32-4D8C-B103-9B28FC8063A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A99A8AD-1C32-4D8C-B103-9B28FC8063A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D897D04-A5AE-4B67-B871-60CDADDC3EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D897D04-A5AE-4B67-B871-60CDADDC3EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D897D04-A5AE-4B67-B871-60CDADDC3EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D897D04-A5AE-4B67-B871-60CDADDC3EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
