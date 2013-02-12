@@ -65,7 +65,9 @@
     <Compile Include="CountryInformationService.asmx.cs">
       <DependentUpon>CountryInformationService.asmx</DependentUpon>
     </Compile>
-    <Compile Include="ICountryInformationServiceSoap.cs" />
+    <Compile Include="CountryInformationServiceInterfaces.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -89,7 +91,7 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>0</DevelopmentServerPort>
+          <DevelopmentServerPort>50087</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
           <IISUrl>http://localhost:59826/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>

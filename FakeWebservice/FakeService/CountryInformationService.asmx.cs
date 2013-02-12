@@ -1,5 +1,4 @@
-﻿using EnterpriseBugs.WebServiceDemo;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Linq;
@@ -9,7 +8,7 @@ using System.Web.Services;
 namespace EnterpriseBugs.FakeWebservice.FakeService
 {
     /// <summary>
-    /// Summary description for CountryInformationServiceFake
+    /// Summary description for CountryInformationService
     /// </summary>
     [WebService(Namespace = "http://tempuri.org/")]
     [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
@@ -25,7 +24,6 @@ namespace EnterpriseBugs.FakeWebservice.FakeService
 
         public System.Data.DataSet GetCountries()
         {
-            // Just return some dummy values in order the method to work
             return PopulateDataSet();
         }
 
@@ -99,10 +97,6 @@ namespace EnterpriseBugs.FakeWebservice.FakeService
             throw new NotImplementedException();
         }
 
-        /// <summary>
-        /// Returns the Fake Countries
-        /// </summary>
-        /// <returns></returns>
         private static DataSet PopulateDataSet()
         {
             DataSet ds = new DataSet();
